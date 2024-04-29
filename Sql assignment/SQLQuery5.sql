@@ -1,0 +1,1 @@
+Select (10*5)/2+15 as Arthimetic_expression;

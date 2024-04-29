@@ -1,0 +1,1 @@
+select name,commission from salespeople;

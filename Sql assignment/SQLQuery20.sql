@@ -1,0 +1,1 @@
+select year, subject, winner, country,category from winnerstbl where year=1970 and subject not in ('physics','Literature');

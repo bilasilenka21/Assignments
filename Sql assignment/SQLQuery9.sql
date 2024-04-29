@@ -1,0 +1,1 @@
+select name,city from salespeople where city='paris';

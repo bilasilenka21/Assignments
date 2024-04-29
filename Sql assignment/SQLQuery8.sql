@@ -1,0 +1,1 @@
+select DISTINCT salesman_id from ordertbl;

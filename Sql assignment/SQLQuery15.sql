@@ -1,0 +1,1 @@
+select winner from winnerstbl where subject='physics'

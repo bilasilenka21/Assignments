@@ -1,0 +1,1 @@
+Select 10+15 as sum_of_numbers;

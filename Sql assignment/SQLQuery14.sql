@@ -1,0 +1,1 @@
+select year,subject from winnerstbl where winner='Bernard Katz'

@@ -1,0 +1,1 @@
+select year, subject, winner,country from winnerstbl where subject='chemistry' and year between 1970 and 1975
