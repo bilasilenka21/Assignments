@@ -1,0 +1,4 @@
+C:\Users\lenkab\source\repos\Moderate\Moderate\obj\Debug\net6.0\Moderate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenkab\source\repos\Moderate\Moderate\obj\Debug\net6.0\Moderate.AssemblyInfoInputs.cache
+C:\Users\lenkab\source\repos\Moderate\Moderate\obj\Debug\net6.0\Moderate.AssemblyInfo.cs
+C:\Users\lenkab\source\repos\Moderate\Moderate\obj\Debug\net6.0\Moderate.csproj.CoreCompileInputs.cache
